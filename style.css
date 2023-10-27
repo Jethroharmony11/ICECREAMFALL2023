@@ -1,0 +1,24 @@
+bodyfont-family: 'Gill Sans' 'Gill Sans MT', Calibri, 'Trebuchet '
+    text-align: center;
+}
+lable{
+    margin: 1ren;
+}
+input{
+    margin: 1rem;
+}
+fieldst{
+    width: 90%;
+    margin: auto;
+}
+fieldset lable{
+    text-align: left;
+    display: inlign-block;
+    win-width: 20vw;
+}
+tab le{
+    margin: auto;
+}
+th{
+    text-align: left
+}
